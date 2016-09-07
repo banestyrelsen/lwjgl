@@ -1,0 +1,214 @@
+2016-09-07 18:54:02,926 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\pom.xml
+2016-09-07 18:54:05,946 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stk.tutorial:lwjgltut:0-SNAPSHOT @ C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\pom.xml.
+2016-09-07 18:54:07,095 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lwjgltut/src/main/java
+2016-09-07 18:54:07,103 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /lwjgltut/src/test/java
+2016-09-07 18:54:08,089 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2016-09-07 18:54:08,658 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 18:54:08,659 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 18:54:08,661 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 18:54:08,661 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 18:54:55,203 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stk.tutorial:lwjgltut:0-SNAPSHOT @ C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\pom.xml.
+2016-09-07 18:54:55,571 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.3/lwjgl-2.9.3.pom
+2016-09-07 18:54:55,704 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.3/lwjgl-2.9.3.pom
+2016-09-07 18:54:55,871 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/lwjgl/lwjgl/parent/2.9.3/parent-2.9.3.pom
+2016-09-07 18:54:56,008 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/lwjgl/lwjgl/parent/2.9.3/parent-2.9.3.pom
+2016-09-07 18:54:56,138 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3.pom
+2016-09-07 18:54:56,302 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3.pom
+2016-09-07 18:54:56,341 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.pom
+2016-09-07 18:54:56,474 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.pom
+2016-09-07 18:54:56,504 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.pom
+2016-09-07 18:54:56,642 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.pom
+2016-09-07 18:54:56,686 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5.pom
+2016-09-07 18:54:56,828 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5.pom
+2016-09-07 18:54:57,003 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.3/lwjgl-2.9.3.jar
+2016-09-07 18:54:57,644 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.3/lwjgl-2.9.3.jar
+2016-09-07 18:54:57,676 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-windows.jar
+2016-09-07 18:54:58,041 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-windows.jar
+2016-09-07 18:54:58,070 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-linux.jar
+2016-09-07 18:54:58,406 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-linux.jar
+2016-09-07 18:54:58,533 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar
+2016-09-07 18:54:58,891 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.3/lwjgl-platform-2.9.3-natives-osx.jar
+2016-09-07 18:54:58,935 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+2016-09-07 18:54:59,158 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+2016-09-07 18:54:59,181 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+2016-09-07 18:54:59,340 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+2016-09-07 18:54:59,367 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar
+2016-09-07 18:54:59,495 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar
+2016-09-07 18:54:59,517 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+2016-09-07 18:54:59,701 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+2016-09-07 18:54:59,728 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar
+2016-09-07 18:54:59,881 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar
+2016-09-07 18:55:00,818 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 18:55:00,818 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 18:55:00,826 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 18:55:00,831 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 18:55:02,705 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stk.tutorial:lwjgltut:0-SNAPSHOT @ C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\pom.xml.
+2016-09-07 18:55:03,065 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 18:55:03,065 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 18:55:03,068 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 18:55:03,072 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:03:03,335 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:03:03,338 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:03:03,343 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:03:03,348 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:04:09,920 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:04:09,921 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:04:09,922 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:04:09,940 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:04:17,169 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:04:17,201 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:04:17,225 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:04:17,231 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:05:05,733 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.stk.tutorial:lwjgltut:0-SNAPSHOT @ C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\pom.xml.
+2016-09-07 19:05:05,911 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:05,911 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:05:05,918 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:05,923 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:05:07,301 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:07,301 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:05:07,333 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:07,338 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:05:31,941 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:31,942 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:05:31,958 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:31,969 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:05:38,469 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:38,470 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:05:38,481 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:38,494 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:05:54,324 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:54,324 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:05:54,338 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:05:54,342 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:06:26,927 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:06:26,927 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:06:26,933 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:06:26,937 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:06:45,524 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:06:45,525 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:06:45,534 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:06:45,542 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:07:00,199 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:00,200 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:07:00,207 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:00,211 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:07:38,147 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:38,147 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:07:38,159 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:38,164 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:07:47,396 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:47,396 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:07:47,405 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:47,410 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:07:52,544 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:52,544 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:07:52,549 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:07:52,560 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:08:03,098 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:03,098 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:08:03,104 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:03,108 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:08:18,036 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:18,036 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:08:18,040 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:18,044 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:08:23,767 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:23,768 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:08:23,772 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:23,776 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:08:28,893 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:28,894 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:08:28,899 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:08:28,903 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:09:27,660 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:09:27,660 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:09:27,669 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:09:27,674 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:09:35,854 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:09:35,855 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:09:35,863 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:09:35,868 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:09:44,158 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:09:44,159 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:09:44,168 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:09:44,171 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:10:04,099 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:04,099 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:10:04,105 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:04,110 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:10:25,978 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:25,979 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:10:25,984 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:25,991 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:10:38,323 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:38,323 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:10:38,331 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:38,338 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:10:47,780 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:47,780 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:10:47,786 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:47,791 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:10:50,488 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:50,489 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:10:50,493 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:50,496 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:10:54,354 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:54,354 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:10:54,359 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:10:54,362 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:11:04,672 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:04,672 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:11:04,678 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:04,682 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:11:30,085 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:30,086 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:11:30,093 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:30,097 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:11:44,993 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:44,994 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:11:45,001 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:45,005 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:11:56,596 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:56,597 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:11:56,602 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:11:56,606 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:12:00,271 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:12:00,272 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:12:00,277 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:12:00,281 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:12:21,332 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:12:21,333 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:12:21,337 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:12:21,341 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:12:28,531 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:12:28,532 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:12:28,548 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:12:28,551 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:13:05,113 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:13:05,113 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:13:05,118 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:13:05,121 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:13:20,318 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:13:20,318 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:13:20,327 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:13:20,335 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:13:35,688 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:13:35,688 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:13:35,695 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:13:35,700 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:14:16,176 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:14:16,176 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:14:16,181 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:14:16,188 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:14:25,231 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:14:25,231 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:14:25,238 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:14:25,242 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:15:02,126 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:15:02,126 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:15:02,130 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:15:02,136 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources
+2016-09-07 19:15:49,127 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:15:49,127 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\main\resources
+2016-09-07 19:15:49,132 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-09-07 19:15:49,136 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\VAJO8504\workspace\other\lwjgl_tutorial\lwjgltut\src\test\resources

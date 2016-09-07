@@ -1,0 +1,21 @@
+package renderEngine;
+
+import org.lwjgl.opengl.Display;
+
+public class DisplayManager {
+	
+	private static final int WIDTH = 1280;
+	private static final int HEIGHT = 720;
+	
+	public static void createDisplay() {
+		Display.setDisplayMode(arg0);
+	}
+	
+	public static void updateDisplay() {
+		
+	}
+
+	public static void closeDisplay() {
+		
+	}
+}
