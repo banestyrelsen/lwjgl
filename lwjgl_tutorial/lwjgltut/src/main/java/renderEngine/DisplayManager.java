@@ -8,13 +8,13 @@ import org.lwjgl.opengl.GL11;
 import org.lwjgl.opengl.PixelFormat;
 
 public class DisplayManager {
-	
+
 	private static final int WIDTH = 1600;
 	private static final int HEIGHT = 900;
 	private static final int FPS_CAP = 120;
-	
+
 	public static void createDisplay() {
-		ContextAttribs attribs = new ContextAttribs(3,2);
+		ContextAttribs attribs = new ContextAttribs(3, 2);
 		attribs.withForwardCompatible(true);
 		attribs.withProfileCore(true);
 		try {
@@ -24,10 +24,10 @@ public class DisplayManager {
 		} catch (LWJGLException e) {
 			e.printStackTrace();
 		}
-		
+
 		GL11.glViewport(0, 0, WIDTH, HEIGHT);
 	}
-	
+
 	public static void updateDisplay() {
 		Display.sync(FPS_CAP);
 		Display.update();
