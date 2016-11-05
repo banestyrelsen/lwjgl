@@ -32,11 +32,10 @@ public class MainGameLoop {
 		};
 
 		// Storing texture coordinates VBO in VAO attribute 1
-		float[] textureCoords = {
-				0, 0, // V0
+		float[] textureCoords = { 0, 0, // V0
 				0, 1, // V1
 				1, 1, // V2
-				1, 0  // V3
+				1, 0 // V3
 		};
 
 		RawModel model = loader.loadToVAO(vertices, textureCoords, indices);
